@@ -95,6 +95,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/etienne/dev/esp/xtensa-esp32-elf/bin:/home/etienne/Android/Sdk/tools:/home/etienne/Android/Sdk/platform-tools:/home/etienne/software/gitslave
+export PATH=~/software/libs:$PATH
 export PYTHONPATH=$PYTHONPATH:/home/etienne/dev/utils
 export PATH=~/software/anaconda3/bin:$PATH
 export ANDROID_HOME=~/Android/Sdk
