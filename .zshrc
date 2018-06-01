@@ -99,3 +99,5 @@ export PATH=~/software/libs:$PATH
 export PYTHONPATH=$PYTHONPATH:/home/etienne/dev/utils
 export PATH=~/software/anaconda3/bin:$PATH
 export ANDROID_HOME=~/Android/Sdk
+export PATH=$PATH:/usr/local/go/bin
+export PATH=/home/etienne/dev/perso/flutter/flutter/bin:$PATH
